@@ -1,4 +1,4 @@
-# 
+# Open Source AI Plagiarism Checker tools. Featuring predictive-analytics and computer-vision — optimized for maximum performance.
 
 
 
